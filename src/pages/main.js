@@ -8,7 +8,7 @@ export default class Main extends Component {
         title: "Primeiro App"
     };
 
-    state = {
+    state = {  
         productInfo: {},
         docs: [],
         page: 1,
@@ -39,7 +39,7 @@ export default class Main extends Component {
 
         this.loadProducts(pageNumber);
     };
-
+                           
     renderItem = ({ item }) => (
         <View style={styles.productContainer}>
             <Text style={styles.productTitle}>{item.title}</Text>
