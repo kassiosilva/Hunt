@@ -34,7 +34,7 @@ const styles = {
     height: 42,
     borderRadius: 5,
     borderWidth: 2,
-    borderColor: '#DA552F',
+    borderColor: '#8c7ae6',
     backgroundColor: 'transparent',
     justifyContent: 'center',
     alignItems: 'center',
@@ -43,7 +43,7 @@ const styles = {
 
   productButtonText: {
     fontSize: 16,
-    color: '#DA552F',
+    color: '#8c7ae6',
     fontWeight: 'bold',
   },
 };
