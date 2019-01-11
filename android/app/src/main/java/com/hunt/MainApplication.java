@@ -1,4 +1,4 @@
-package com.vdc;
+package com.hunt;
 
 import android.app.Application;
 
